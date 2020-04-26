@@ -17,7 +17,7 @@ card:
 
 {{% capture overview %}}
 <!-- ConfigMaps allow you to decouple configuration artifacts from image content to keep containerized applications portable. This page provides a series of usage examples demonstrating how to create ConfigMaps and configure Pods using data stored in ConfigMaps. -->
-ConfigMap 允许您将配置文件与镜像文件分离，以使容器化的应用程序具有可移植性。该页面提供了一系列使用示例，这些示例演示了如何使用存储在 ConfigMap 中的数据创建 ConfigMap 和配置 Pod。
+ConfigMap 允许您将配置文件与镜像文件分离，以使容器化的应用程序具有可移植性。该页面提供了一系列使用示例，这些示例演示了如何创建ConfigMap，以及如何使用ConfigMap 中存储的数据配置 Pod。
 
 {{% /capture %}}
 
